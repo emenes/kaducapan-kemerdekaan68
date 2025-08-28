@@ -11,9 +11,9 @@ This project is a **digital greeting card** built with **HTML, CSS, and JavaScri
 - Main title: **SELAMAT HARI KEBANGSAAN KE-68, MALAYSIA!**  
 - Slogan: *Merdeka! Merdeka! Merdeka! – Together we shape a united, progressive, and harmonious future.*  
 - Short poem:  
-  > Terbang Tinggi Si Burung Merpati,
-  > Hinggap Sebentar Di Atas Dahan,
-  > Sudah 68 Tahun Kemerdekaan Dirai,  
+  > Terbang Tinggi Si Burung Merpati,<br>
+  > Hinggap Sebentar Di Atas Dahan,<br>
+  > Sudah 68 Tahun Kemerdekaan Dirai,<br>
   > Negara Sejahtera Penuh Kenangan.
 - Patriotic hashtags: `#MalaysiaMadani • #KitaJagaKita • #SayangiMalaysiaku`  
 - Family wishes: *Sincerely from our family – MERDEKA! MERDEKA! MERDEKA!*  

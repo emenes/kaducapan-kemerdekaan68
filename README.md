@@ -28,4 +28,7 @@ This project is a **digital greeting card** built with **HTML, CSS, and JavaScri
 This digital card was created to spark the spirit of **patriotism, unity, and love for our homeland, Malaysia!**.  
 
 ## 👨‍💻 Creator
-Developed by **Naufal Shafiq Zulkarnain** | e-kaddesign 2025
+Developed by **Naufal Shafiq Zulkarnain** (Emenes) | e-kaddesign 2025
+
+____
+![logo](https://emenes.github.io/kaducapan-kemerdekaan68/img/logo.png)
